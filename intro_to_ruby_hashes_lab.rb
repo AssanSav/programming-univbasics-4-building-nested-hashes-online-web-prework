@@ -24,7 +24,6 @@ def monopoly_with_third_tier
 	    :one_piece_owned => 25
   	}
 }
-
 end
 
 def monopoly_with_fourth_tier
